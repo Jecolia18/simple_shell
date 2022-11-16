@@ -1,10 +1,11 @@
 #include <stdio.h>
+#include "shell.h"
 
 /**
  * main - Addition and substraction of two numbers
  * Return: Always 0 (Success)
  */
-int main(void)
+int _random(void)
 {
 	int num1, num2, num3, num4;
 	int sum = num1 + num2;

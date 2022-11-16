@@ -12,6 +12,7 @@
 #include <sys/stat.h>
 #include <signal.h>
 
+int _random(void);
 int _putchar(char c);
 void _puts(char *str);
 int _strlen(char *s);
