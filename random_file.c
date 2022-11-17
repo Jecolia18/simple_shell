@@ -2,8 +2,8 @@
 #include "shell.h"
 
 /**
- * main - Addition and substraction of two numbers
- * DESCRIPTION: @_randon returns the addition and subtraction of two integers
+ * _random - Addition and substraction of two numbers
+ * Description: Returns the addition and subtraction of two integers
  * Return: Always 0 (Success)
  */
 int _random(void)
