@@ -1,7 +1,7 @@
 
 The shell is a program that takes commands from the keyboard via the terminal, and gives them to the operating system to perform.
 
-=================================================ABOUT THIS PROJECT==================================================================
+============================================ABOUT THIS PROJECT===========================================================
 
 	This project is a simple version of the linux shell made for ALX "Simple_shell" project.
 It is created using the C programming Language and it can do many functionalities that a real shell does.
