@@ -10,7 +10,7 @@ int _random(void)
 	int num1 = 10;
 	int num2 = 20;
 	int num3 = 30;
-       	int num4 = 10;
+	int num4 = 10;
 	int sum = num1 + num2;
 	int subtract = num3 - num4;
 
@@ -21,6 +21,5 @@ int _random(void)
 	printf("If yes enter two numbers: ");
 	scanf("%d %d", &num3, &num4);
 	printf("This is the result of the substraction: %d\n", subtract);
-	
 	return (0);
 }
