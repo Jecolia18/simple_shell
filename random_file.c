@@ -3,6 +3,7 @@
 
 /**
  * main - Addition and substraction of two numbers
+ * DESCRIPTION: @_randon returns the addition and subtraction of two integers
  * Return: Always 0 (Success)
  */
 int _random(void)
